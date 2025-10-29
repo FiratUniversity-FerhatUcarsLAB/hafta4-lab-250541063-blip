@@ -1,6 +1,6 @@
 /*
- * Ad Soyad: [ADINIZI BURAYA YAZIN]
- * Ogrenci No: [OGRENCI NUMARANIZI BURAYA YAZIN]
+ * Ad Soyad: [FATMA TÜRKMEN]
+ * Ogrenci No: [250541063]
  * Tarih: [TARIHI BURAYA YAZIN]
  * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
  * 
